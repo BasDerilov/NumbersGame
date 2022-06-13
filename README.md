@@ -1,5 +1,5 @@
 # Numbers Game
-A small course project from The Complete Javascript Course 2022
+A small course project from [The Complete Javascript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ## How to run the code
 #### Open a console window and cd into the folder you want the project to be cloned into.
